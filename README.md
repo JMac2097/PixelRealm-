@@ -27,6 +27,3 @@ Social Sharing: Implement social sharing functionality, enabling users to share 
 
 Responsive Design: Ensure the website is responsive and optimized for different screen sizes and devices, allowing users to access the database from desktops, laptops, tablets, and mobile phones.
 
-You can leverage a database management system (e.g., MySQL, PostgreSQL) to store the information and build the website using JavaScript, TypeScript, and a web framework like React or Angular. Consider incorporating attractive visuals and retro design elements to evoke the nostalgia of arcade machines.
-
-This project will provide you with opportunities to work with databases, user authentication, data visualization, and community engagement features. Enjoy creating a valuable resource for arcade enthusiasts and preserving the legacy of vintage arcade machines!
